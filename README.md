@@ -1,14 +1,8 @@
 # Traveling
 旅游攻略
-需要自己手动导入第三方类库
-source 'https://github.com/CocoaPods/Specs.git'
-platform :ios, "8.0"
-
-inhibit_all_warnings!
+第三方类库没有上传上去,需要自己手动导入第三方类库
 
 target 'Traveling' do
-    
-    
     pod 'AFNetworking'
     pod 'YYKit'
     pod 'MJRefresh'
